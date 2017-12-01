@@ -14,4 +14,5 @@
 ## 참고사이트
 http://cofs.tistory.com/175
 
+## 스크린샷
 ![Screenshot](https://github.com/karrel84/TesseractSample/blob/master/screen.png?raw=true)
