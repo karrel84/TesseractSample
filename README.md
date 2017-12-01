@@ -16,3 +16,6 @@ http://cofs.tistory.com/175
 
 ## 스크린샷
 ![Screenshot](https://github.com/karrel84/TesseractSample/blob/master/screen.png?raw=true)
+
+## 결론
+인식률도 별로고 속도도 늦고.. 이거뭐 못써먹겠네
