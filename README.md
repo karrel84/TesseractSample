@@ -11,4 +11,7 @@
 3. tedpermission
 4. rxandroid
 
+## 참고사이트
+http://cofs.tistory.com/175
+
 ![Screenshot](https://github.com/karrel84/TesseractSample/blob/master/screen.png?raw=true)
