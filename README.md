@@ -11,4 +11,4 @@
 3. tedpermission
 4. rxandroid
 
-![Screenshot](https://github.com/karrel84/TesseractSample/blob/master/device-2017-12-01-173932.png?raw=true)
+![Screenshot](https://github.com/karrel84/TesseractSample/blob/master/screen.png?raw=true)
